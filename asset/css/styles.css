@@ -1,0 +1,17 @@
+.fondo {
+    background-color: orange;
+}
+
+.margin {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.texto {
+    text-align: left;
+}
+
+.margin-carrucel {
+    padding-top: auto;
+}
+
